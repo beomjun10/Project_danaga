@@ -1,7 +1,6 @@
 # 💻 최저가 전자제품 구매 danaga.com
 <img src="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8D63BFCB55921C27B39DB09FFD775F1C1EDE00FC4D5611AC492CA33B7651FDF2/scale?width=1440&aspectRatio=1.78&format=jpeg" width="800" height="400"/>
-어벤져스도 울고간 가격
-https://danaga.com
+
 
 ## 팀원
 
@@ -22,4 +21,4 @@ https://danaga.com
 ![Web App Reference Architecture](https://github.com/2023-05-JAVA-DEVELOPER-143/2023-05-JAVA-DEVELOPER-final-project-team3-avengers/assets/133833132/f55e300e-40ac-4bd8-b42a-dd8a98c0cf94)
 
 
-### 화이팅입니다~
+
