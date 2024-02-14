@@ -1,8 +1,10 @@
-# 💻 최저가 전자제품 구매 danaga.com
+💻 최저가 전자제품 구매 danaga.com
 <img src="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8D63BFCB55921C27B39DB09FFD775F1C1EDE00FC4D5611AC492CA33B7651FDF2/scale?width=1440&aspectRatio=1.78&format=jpeg" width="800" height="400"/>
 
 
-## 팀원
+## WBS
+## ERD
+## 멤버구성
 
 <div align="center">
 
@@ -15,8 +17,9 @@
 
 </div>
 
+# 
 
-# 사용 기술
+# 개발 환경
 
 ![Web App Reference Architecture](https://github.com/2023-05-JAVA-DEVELOPER-143/2023-05-JAVA-DEVELOPER-final-project-team3-avengers/assets/133833132/f55e300e-40ac-4bd8-b42a-dd8a98c0cf94)
 
