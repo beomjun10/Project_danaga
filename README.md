@@ -1,5 +1,7 @@
-💻 최저가 전자제품 구매 danaga.com
-<img src="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8D63BFCB55921C27B39DB09FFD775F1C1EDE00FC4D5611AC492CA33B7651FDF2/scale?width=1440&aspectRatio=1.78&format=jpeg" width="800" height="400"/>
+<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
+💻 다나가닷컴
+컴퓨터, 노트북, 부품 판매 사이트 입니다.
+
 
 
 ## WBS
