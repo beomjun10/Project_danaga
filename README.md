@@ -47,3 +47,8 @@
 |**관리자 페이지**|
 |![image](https://github.com/beomjun10/Project_danaga/assets/133833092/26b29c24-2193-4721-b2c5-727cdd916c15)
 
+
+
+### 📁 상세보기
+⏩<a href=https://jjun109.tistory.com/2> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://jjun109.tistory.com/2"> </a>
+
