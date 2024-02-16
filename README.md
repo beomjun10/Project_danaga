@@ -5,7 +5,9 @@
 
 
 ## WBS
+![WBS](https://github.com/beomjun10/Project_danaga/assets/133833092/54182d74-9219-4d3e-b5b4-554a584bdfd4)
 ## ERD
+![ERD](https://github.com/beomjun10/Project_danaga/assets/133833092/e35022a7-2aff-4194-a588-6fcb3645601f)
 ## 멤버구성
 
 <div align="center">
