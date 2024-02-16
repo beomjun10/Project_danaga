@@ -37,13 +37,11 @@
 |:--------:|:----------:|
 |![image](https://github.com/beomjun10/Project_danaga/assets/133833092/4d7c67e6-2e20-4688-a56d-12fdc0d03be6)|![image](https://github.com/beomjun10/Project_danaga/assets/133833092/b977a5f8-c748-4c37-b064-6c5a71bc962c)|
 |**상품 페이지**|**상품 페이지**|
-| ![image](https://github.com/Roco-LEE/IWILL_TEAM_PROJECT/assets/133840827/b7c0ec29-399e-4133-a49f-493f78117175)| ![image](https://github.com/Roco-LEE/IWILL_TEAM_PROJECT/assets/133840827/47edfac4-a5fa-497c-bd89-1aa1844bf94a)|
+| ![image](https://github.com/beomjun10/Project_danaga/assets/133833092/21799513-cdb2-4c5a-9ed3-a6b8d7640bb0)| ![image](https://github.com/beomjun10/Project_danaga/assets/133833092/a7715efa-76d7-41b4-89ba-743c22596e5d)|
 |**장바구니 페이지**|**주문 페이지**|
-| ![image](https://github.com/Roco-LEE/IWILL_TEAM_PROJECT/assets/133840827/c08b44ff-1409-4a5b-ad08-5eb9cc98a022)| ![image](https://github.com/Roco-LEE/IWILL_TEAM_PROJECT/assets/133840827/4f679529-a4e8-4699-afc9-b13d2650de61)|
+| ![장바구니](https://github.com/beomjun10/Project_danaga/assets/133833092/8f225361-19ff-4dff-91fa-fd62d679418a)| ![image](https://github.com/beomjun10/Project_danaga/assets/133833092/78fb0ced-fcaf-4ef5-a73f-5799d0c7ffb4)|
 |**주문조회 페이지**|**게시판 페이지**|
-| ![image](https://github.com/Roco-LEE/IWILL_TEAM_PROJECT/assets/133840827/4f0f6a54-a7a6-4c72-a860-b480e53a0b95)|![image](https://github.com/Roco-LEE/IWILL_TEAM_PROJECT/assets/133840827/ba189c41-d6a9-4960-9fe1-16837e900f80) |
-|**관리자 페이지**||
-|![image](https://github.com/Roco-LEE/IWILL_TEAM_PROJECT/assets/133840827/e0d34cc4-4683-4e6c-aadd-bcfa56bd2e36)
-
-
+|![image](https://github.com/beomjun10/Project_danaga/assets/133833092/141dd2e8-ab46-4cc4-ad6a-5152f633ea2d)|![image](https://github.com/beomjun10/Project_danaga/assets/133833092/6b582f90-b9ec-4f81-8184-17db320ecc41) |
+|**관리자 페이지**|
+|![image](https://github.com/beomjun10/Project_danaga/assets/133833092/26b29c24-2193-4721-b2c5-727cdd916c15)
 
