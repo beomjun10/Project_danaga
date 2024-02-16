@@ -50,4 +50,4 @@
 
 
 ### 📁 상세보기
-⏩<a href=https://jjun109.tistory.com/2> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://jjun109.tistory.com/2"></a>
+<a href=https://jjun109.tistory.com/2> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://jjun109.tistory.com/2"></a>
