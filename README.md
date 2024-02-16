@@ -32,4 +32,18 @@
 ![Web App Reference Architecture](https://github.com/2023-05-JAVA-DEVELOPER-143/2023-05-JAVA-DEVELOPER-final-project-team3-avengers/assets/133833132/f55e300e-40ac-4bd8-b42a-dd8a98c0cf94)
 
 
+### 📄 주요 기능
+| 메인 페이지 | 회원 페이지 |
+|:--------:|:----------:|
+|![image](https://github.com/Roco-LEE/IWILL_TEAM_PROJECT/assets/133840827/3f92ca38-bffb-4676-9017-0c6159e8fb88)|![image](https://github.com/Roco-LEE/IWILL_TEAM_PROJECT/assets/133840827/ad0972d1-781c-48a4-a278-d0e5a9b608e7)|
+|**상품 페이지**|**상품 페이지**|
+| ![image](https://github.com/Roco-LEE/IWILL_TEAM_PROJECT/assets/133840827/b7c0ec29-399e-4133-a49f-493f78117175)| ![image](https://github.com/Roco-LEE/IWILL_TEAM_PROJECT/assets/133840827/47edfac4-a5fa-497c-bd89-1aa1844bf94a)|
+|**장바구니 페이지**|**주문 페이지**|
+| ![image](https://github.com/Roco-LEE/IWILL_TEAM_PROJECT/assets/133840827/c08b44ff-1409-4a5b-ad08-5eb9cc98a022)| ![image](https://github.com/Roco-LEE/IWILL_TEAM_PROJECT/assets/133840827/4f679529-a4e8-4699-afc9-b13d2650de61)|
+|**주문조회 페이지**|**게시판 페이지**|
+| ![image](https://github.com/Roco-LEE/IWILL_TEAM_PROJECT/assets/133840827/4f0f6a54-a7a6-4c72-a860-b480e53a0b95)|![image](https://github.com/Roco-LEE/IWILL_TEAM_PROJECT/assets/133840827/ba189c41-d6a9-4960-9fe1-16837e900f80) |
+|**관리자 페이지**||
+|![image](https://github.com/Roco-LEE/IWILL_TEAM_PROJECT/assets/133840827/e0d34cc4-4683-4e6c-aadd-bcfa56bd2e36)
+
+
 
